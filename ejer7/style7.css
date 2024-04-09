@@ -1,0 +1,17 @@
+h1,
+h2,
+h3 {
+  text-decoration: underline;
+}
+h1 {
+  color: #ff0000;
+  text-align: left;
+}
+h2 {
+  color: #dd0000;
+  text-align: center;
+}
+h3 {
+  color: #aa0000;
+  text-align: right;
+}
